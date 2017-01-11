@@ -2,13 +2,14 @@
 Study Plan of SKE Student
 
 ### How to See Chart
-- Image
-    - ![image](https://github.com/kamontat/ske-study-plan/blob/master/images/SKEStudyChart.png?raw=true)
-- HTML **(Mobile NOT Support)** 
+- HTML **(Mobile NOT Support)** **(Highly Recommended)**
     - [HTML Raw file](https://github.com/kamontat/ske-study-plan/blob/master/index.html)
     - [HTML Link](https://kamontat.github.io/ske-study-plan/)
         - you can simplest searching course by use `ctrl/cmd + f`
-- PDF **(NOT Recommend)**
+        - you can see more information by click on the block that you want
+- Image
+    - ![image](https://github.com/kamontat/ske-study-plan/blob/master/images/background/SKEStudyChart_bg.png?raw=true)
+- PDF **(NOT Recommended)**
     - [PDF link](https://github.com/kamontat/ske-study-plan/blob/master/SKEStudyChart.pdf)
 
 ### How to edit or add more (Fork)
