@@ -1,20 +1,13 @@
 # ske-study-plan
 Study Plan of SKE Student
 
-### Create By
-- Kamontat Chantrachirathumrong
-- using https://www.draw.io
-
-### For
-- seeing which subject ske student need to learn.
-- seeing which is coming next to.
-
 ### How to See Chart
-- Image 
+- Image
     - ![image](https://github.com/kamontat/ske-study-plan/blob/master/images/SKEStudyChart.png?raw=true)
 - HTML **(Mobile NOT Support)** 
     - [HTML Raw file](https://github.com/kamontat/ske-study-plan/blob/master/index.html)
     - [HTML Link](https://kamontat.github.io/ske-study-plan/)
+        - you can simplest searching course by use `ctrl/cmd + f`
 - PDF **(NOT Recommend)**
     - [PDF link](https://github.com/kamontat/ske-study-plan/blob/master/SKEStudyChart.pdf)
 
@@ -26,6 +19,14 @@ Study Plan of SKE Student
 5. click import and DONE
 
 PS This good if you referent to this repository when you edit it or maybe you can `pull request` to me
+
+### Create By
+- Kamontat Chantrachirathumrong
+- using https://www.draw.io
+
+### For
+- seeing which subject ske student need to learn.
+- seeing which is coming next to.
 
 ### Credit
 - In picture
