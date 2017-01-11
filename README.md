@@ -1,7 +1,7 @@
 # ske-study-plan
 
 Study Plan of SKE Student
-(Current version is [v2.0](https://github.com/kamontat/ske-study-plan/releases/tag/v2.0))
+(Current version is [v2.1](https://github.com/kamontat/ske-study-plan/releases/latest))
 
 ### How to See Chart
 - HTML **(Highly Recommended)**
