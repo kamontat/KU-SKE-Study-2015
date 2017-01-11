@@ -1,10 +1,12 @@
 # ske-study-plan
+
 Study Plan of SKE Student
+(Current version is [v2.0](https://github.com/kamontat/ske-study-plan/releases/tag/v2.0))
 
 ### How to See Chart
-- HTML **(Mobile NOT Support)** **(Highly Recommended)**
+- HTML **(Highly Recommended)**
     - [HTML Raw file](https://github.com/kamontat/ske-study-plan/blob/master/index.html)
-    - [HTML Link](https://kamontat.github.io/ske-study-plan/)
+    - [HTML Link](https://kamontat.github.io/ske-study-plan/) **(Mobile NOT Support)** 
         - you can simplest searching course by use `ctrl/cmd + f`
         - you can see more information by click on the block that you want
 - Image
